@@ -8,7 +8,7 @@
 
         public Que(){
             super(4);
-            new ABC(777);
+            new ABC(7677);
         }
         public void show(){
     }

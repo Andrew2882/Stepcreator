@@ -6,8 +6,8 @@ public class untitled2 {
         public B() {
             System.out.println("b");
         }}
-        class C extends B{
-            public C() {
+        class Cf extends B{
+            public Cf() {
                 System.out.println("C");
             }
 

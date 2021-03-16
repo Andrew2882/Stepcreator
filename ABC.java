@@ -12,5 +12,6 @@
             new ABC(00000000077887);
         }
         public void show(){
+            System.out.println("constructor FORK 1 160321");
     }
 }

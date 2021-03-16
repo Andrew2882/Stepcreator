@@ -1,6 +1,7 @@
  class ABC {
-    ABC(int i ) {
+    ABC(int i )   {
         System.out.println("constructor a");
+        System.out.println("constructor 160321");
     }}
     class Que extends ABC {
         public static void main(String[] args) {
